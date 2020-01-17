@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120147162",
-        "swim:gufi":""
+        "swim:flight_ref":"120147162"
     },
     "wof:country":"US",
     "wof:created":1574697812,
@@ -94,7 +93,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1578937419,
+    "wof:lastmodified":1579301263,
     "wof:name":"AS340 (SFO-EWR)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

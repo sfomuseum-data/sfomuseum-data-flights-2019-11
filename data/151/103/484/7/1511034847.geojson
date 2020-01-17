@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118278340",
-        "swim:gufi":""
+        "swim:flight_ref":"118278340"
     },
     "wof:country":"US",
     "wof:created":1572883326,
@@ -101,7 +100,7 @@
         1477930349,
         1377564285
     ],
-    "wof:lastmodified":1578935705,
+    "wof:lastmodified":1579301023,
     "wof:name":"AS972 (SFO-PVR)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

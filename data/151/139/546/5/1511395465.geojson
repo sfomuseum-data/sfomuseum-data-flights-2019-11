@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120346240",
-        "swim:gufi":""
+        "swim:flight_ref":"120346240"
     },
     "wof:country":"US",
     "wof:created":1574870593,
@@ -97,7 +96,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1578937883,
+    "wof:lastmodified":1579301331,
     "wof:name":"WN2194 (SFO-STL)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

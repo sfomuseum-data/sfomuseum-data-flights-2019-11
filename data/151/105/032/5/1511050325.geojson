@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118398312",
-        "swim:gufi":""
+        "swim:flight_ref":"118398312"
     },
     "wof:country":"US",
     "wof:created":1573056113,
@@ -101,7 +100,7 @@
         1477930453,
         1159289407
     ],
-    "wof:lastmodified":1578936146,
+    "wof:lastmodified":1579301084,
     "wof:name":"UA481 (LAX-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

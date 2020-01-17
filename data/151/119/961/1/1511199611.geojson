@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119128322",
-        "swim:gufi":""
+        "swim:flight_ref":"119128322"
     },
     "wof:country":"US",
     "wof:created":1573747348,
@@ -101,7 +100,7 @@
         1477930469,
         1159293215
     ],
-    "wof:lastmodified":1578936820,
+    "wof:lastmodified":1579301176,
     "wof:name":"UA34 (KIX-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

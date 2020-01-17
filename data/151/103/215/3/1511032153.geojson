@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118249401",
-        "swim:gufi":""
+        "swim:flight_ref":"118249401"
     },
     "wof:country":"US",
     "wof:created":1572883302,
@@ -101,7 +100,7 @@
         1477930295,
         1159293215
     ],
-    "wof:lastmodified":1578935780,
+    "wof:lastmodified":1579301033,
     "wof:name":"CZ657 (CAN-SFO)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

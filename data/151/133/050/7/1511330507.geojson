@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119715293",
-        "swim:gufi":""
+        "swim:flight_ref":"119715293"
     },
     "wof:country":"US",
     "wof:created":1574265764,
@@ -94,7 +93,7 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1578936260,
+    "wof:lastmodified":1579301099,
     "wof:name":"AS1750 (SEA-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

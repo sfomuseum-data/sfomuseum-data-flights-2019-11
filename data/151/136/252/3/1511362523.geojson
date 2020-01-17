@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120003074",
-        "swim:gufi":""
+        "swim:flight_ref":"120003074"
     },
     "wof:country":"US",
     "wof:created":1574524957,
@@ -100,7 +99,7 @@
         1477930371,
         1377564285
     ],
-    "wof:lastmodified":1578937082,
+    "wof:lastmodified":1579301216,
     "wof:name":"AS864 (SEA-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

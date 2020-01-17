@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120130596",
-        "swim:gufi":""
+        "swim:flight_ref":"120130596"
     },
     "wof:country":"US",
     "wof:created":1574697771,
@@ -101,7 +100,7 @@
         1477930349,
         1159289871
     ],
-    "wof:lastmodified":1578937991,
+    "wof:lastmodified":1579301348,
     "wof:name":"AS363 (EWR-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

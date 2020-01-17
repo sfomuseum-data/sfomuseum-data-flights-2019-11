@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118132324",
-        "swim:gufi":""
+        "swim:flight_ref":"118132324"
     },
     "wof:country":"US",
     "wof:created":1572796900,
@@ -101,7 +100,7 @@
         1477930341,
         1159289871
     ],
-    "wof:lastmodified":1578935907,
+    "wof:lastmodified":1579301052,
     "wof:name":"AS726 (PDX-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

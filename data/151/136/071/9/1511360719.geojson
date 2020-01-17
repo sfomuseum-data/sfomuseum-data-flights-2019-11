@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120007528",
-        "swim:gufi":""
+        "swim:flight_ref":"120007528"
     },
     "wof:country":"US",
     "wof:created":1574524944,
@@ -101,7 +100,7 @@
         1477930387,
         1159289407
     ],
-    "wof:lastmodified":1578936981,
+    "wof:lastmodified":1579301201,
     "wof:name":"UA595 (YVR-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

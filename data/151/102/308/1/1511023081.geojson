@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118052273",
-        "swim:gufi":""
+        "swim:flight_ref":"118052273"
     },
     "wof:country":"US",
     "wof:created":1572710539,
@@ -100,7 +99,7 @@
         1477930387,
         1377564285
     ],
-    "wof:lastmodified":1578935846,
+    "wof:lastmodified":1579301042,
     "wof:name":"UA257 (SFO-LAX)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120499686",
-        "swim:gufi":""
+        "swim:flight_ref":"120499686"
     },
     "wof:country":"US",
     "wof:created":1575043372,
@@ -102,7 +101,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578938934,
+    "wof:lastmodified":1579301505,
     "wof:name":"WN5335 (SFO-ATL)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

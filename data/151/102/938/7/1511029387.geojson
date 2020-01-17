@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118206209",
-        "swim:gufi":""
+        "swim:flight_ref":"118206209"
     },
     "wof:country":"US",
     "wof:created":1572796932,
@@ -101,7 +100,7 @@
         1477930291,
         1159293215
     ],
-    "wof:lastmodified":1578935835,
+    "wof:lastmodified":1579301041,
     "wof:name":"CZ660 (SFO-CAN)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

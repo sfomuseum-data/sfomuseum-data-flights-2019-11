@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118060932",
-        "swim:gufi":""
+        "swim:flight_ref":"118060932"
     },
     "wof:country":"US",
     "wof:created":1572710482,
@@ -101,7 +100,7 @@
         1477930487,
         1159293215
     ],
-    "wof:lastmodified":1578937946,
+    "wof:lastmodified":1579301341,
     "wof:name":"UA195 (MUC-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

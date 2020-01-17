@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118927724",
-        "swim:gufi":""
+        "swim:flight_ref":"118927724"
     },
     "wof:country":"US",
     "wof:created":1573488154,
@@ -102,7 +101,7 @@
         1477930439,
         1159289985
     ],
-    "wof:lastmodified":1578938188,
+    "wof:lastmodified":1579301378,
     "wof:name":"UA727 (SFO-IAD)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

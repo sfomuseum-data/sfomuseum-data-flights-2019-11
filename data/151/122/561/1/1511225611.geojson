@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119469845",
-        "swim:gufi":""
+        "swim:flight_ref":"119469845"
     },
     "wof:country":"US",
     "wof:created":1574006547,
@@ -102,7 +101,7 @@
         1477930433,
         1377564289
     ],
-    "wof:lastmodified":1578938654,
+    "wof:lastmodified":1579301457,
     "wof:name":"UA1248 (SFO-LAX)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

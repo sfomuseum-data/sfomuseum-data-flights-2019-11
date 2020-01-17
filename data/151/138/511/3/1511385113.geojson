@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120190051",
-        "swim:gufi":""
+        "swim:flight_ref":"120190051"
     },
     "wof:country":"US",
     "wof:created":1574784183,
@@ -101,7 +100,7 @@
         1477930357,
         1159289871
     ],
-    "wof:lastmodified":1578937488,
+    "wof:lastmodified":1579301274,
     "wof:name":"AS870 (KOA-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

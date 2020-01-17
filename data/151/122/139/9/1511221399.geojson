@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119379272",
-        "swim:gufi":""
+        "swim:flight_ref":"119379272"
     },
     "wof:country":"US",
     "wof:created":1573920164,
@@ -102,7 +101,7 @@
         1477881721,
         1159289411
     ],
-    "wof:lastmodified":1578938733,
+    "wof:lastmodified":1579301468,
     "wof:name":"B6534 (SFO-BOS)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

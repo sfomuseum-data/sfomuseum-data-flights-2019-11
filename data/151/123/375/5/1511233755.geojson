@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119536041",
-        "swim:gufi":""
+        "swim:flight_ref":"119536041"
     },
     "wof:country":"US",
     "wof:created":1574092961,
@@ -101,7 +100,7 @@
         1477930349,
         1159292085
     ],
-    "wof:lastmodified":1578938402,
+    "wof:lastmodified":1579301411,
     "wof:name":"AS1972 (SFO-LAX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

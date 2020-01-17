@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118315025",
-        "swim:gufi":""
+        "swim:flight_ref":"118315025"
     },
     "wof:country":"US",
     "wof:created":1572969725,
@@ -102,7 +101,7 @@
         1477930369,
         1159292085
     ],
-    "wof:lastmodified":1578935573,
+    "wof:lastmodified":1579301004,
     "wof:name":"AS1938 (SFO-LAX)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

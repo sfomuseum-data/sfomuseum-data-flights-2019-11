@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120268199",
-        "swim:gufi":""
+        "swim:flight_ref":"120268199"
     },
     "wof:country":"US",
     "wof:created":1574784184,
@@ -99,7 +98,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578937507,
+    "wof:lastmodified":1579301277,
     "wof:name":"WN2185 (ONT-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

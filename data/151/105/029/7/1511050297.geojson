@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118431613",
-        "swim:gufi":""
+        "swim:flight_ref":"118431613"
     },
     "wof:country":"US",
     "wof:created":1573056113,
@@ -101,7 +100,7 @@
         1477930349,
         1377564285
     ],
-    "wof:lastmodified":1578936132,
+    "wof:lastmodified":1579301082,
     "wof:name":"AS384 (PDX-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

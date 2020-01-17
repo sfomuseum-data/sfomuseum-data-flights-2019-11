@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118128247",
-        "swim:gufi":""
+        "swim:flight_ref":"118128247"
     },
     "wof:country":"US",
     "wof:created":1572796917,
@@ -100,7 +99,7 @@
         1477930409,
         1159289407
     ],
-    "wof:lastmodified":1578935943,
+    "wof:lastmodified":1579301057,
     "wof:name":"UA372 (SFO-LAX)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

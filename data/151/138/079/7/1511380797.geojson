@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120141265",
-        "swim:gufi":""
+        "swim:flight_ref":"120141265"
     },
     "wof:country":"US",
     "wof:created":1574697807,
@@ -102,7 +101,7 @@
         1477930391,
         1159289945
     ],
-    "wof:lastmodified":1578937442,
+    "wof:lastmodified":1579301267,
     "wof:name":"UA452 (SFO-DEN)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

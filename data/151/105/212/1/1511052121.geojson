@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118452907",
-        "swim:gufi":""
+        "swim:flight_ref":"118452907"
     },
     "wof:country":"US",
     "wof:created":1573056133,
@@ -101,7 +100,7 @@
         1477881735,
         1159289869
     ],
-    "wof:lastmodified":1578936129,
+    "wof:lastmodified":1579301081,
     "wof:name":"WN2581 (SFO-DEN)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

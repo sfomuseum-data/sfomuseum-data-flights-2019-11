@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118334893",
-        "swim:gufi":""
+        "swim:flight_ref":"118334893"
     },
     "wof:country":"US",
     "wof:created":1572969688,
@@ -101,7 +100,7 @@
         1477930299,
         1159289423
     ],
-    "wof:lastmodified":1578935762,
+    "wof:lastmodified":1579301031,
     "wof:name":"AY11 (HEL-SFO)",
     "wof:parent_id":1477930299,
     "wof:placetype":"event",

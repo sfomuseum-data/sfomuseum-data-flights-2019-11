@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118858628",
-        "swim:gufi":""
+        "swim:flight_ref":"118858628"
     },
     "wof:country":"US",
     "wof:created":1573401724,
@@ -100,7 +99,7 @@
         1477930441,
         1159289945
     ],
-    "wof:lastmodified":1578937331,
+    "wof:lastmodified":1579301251,
     "wof:name":"UA380 (EWR-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

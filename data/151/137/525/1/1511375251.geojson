@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120207320",
-        "swim:gufi":""
+        "swim:flight_ref":"120207320"
     },
     "wof:country":"US",
     "wof:created":1574697762,
@@ -100,7 +99,7 @@
         1477930395,
         1159292085
     ],
-    "wof:lastmodified":1578938099,
+    "wof:lastmodified":1579301365,
     "wof:name":"UA2750 (IAH-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

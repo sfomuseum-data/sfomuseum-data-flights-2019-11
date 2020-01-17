@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119000135",
-        "swim:gufi":""
+        "swim:flight_ref":"119000135"
     },
     "wof:country":"US",
     "wof:created":1573574518,
@@ -98,7 +97,7 @@
         1477930361,
         1159289871
     ],
-    "wof:lastmodified":1578937154,
+    "wof:lastmodified":1579301226,
     "wof:name":"AA363 (ORD-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

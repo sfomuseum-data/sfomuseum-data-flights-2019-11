@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119207169",
-        "swim:gufi":""
+        "swim:flight_ref":"119207169"
     },
     "wof:country":"US",
     "wof:created":1573833759,
@@ -101,7 +100,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578936588,
+    "wof:lastmodified":1579301144,
     "wof:name":"WN1360 (SFO-DEN)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118293763",
-        "swim:gufi":""
+        "swim:flight_ref":"118293763"
     },
     "wof:country":"US",
     "wof:created":1572883289,
@@ -102,7 +101,7 @@
         1477930341,
         1377564297
     ],
-    "wof:lastmodified":1578935700,
+    "wof:lastmodified":1579301023,
     "wof:name":"AS1002 (DCA-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

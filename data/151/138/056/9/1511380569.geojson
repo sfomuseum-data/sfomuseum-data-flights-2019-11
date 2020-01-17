@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120182980",
-        "swim:gufi":""
+        "swim:flight_ref":"120182980"
     },
     "wof:country":"US",
     "wof:created":1574697806,
@@ -102,7 +101,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578937544,
+    "wof:lastmodified":1579301282,
     "wof:name":"WN5325 (SFO-PDX)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

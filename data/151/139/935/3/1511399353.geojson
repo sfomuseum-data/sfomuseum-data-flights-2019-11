@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120452020",
-        "swim:gufi":""
+        "swim:flight_ref":"120452020"
     },
     "wof:country":"US",
     "wof:created":1574956980,
@@ -100,7 +99,7 @@
         1477930435,
         1159289945
     ],
-    "wof:lastmodified":1578937826,
+    "wof:lastmodified":1579301322,
     "wof:name":"UA1213 (ORD-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

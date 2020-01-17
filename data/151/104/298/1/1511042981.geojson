@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118374921",
-        "swim:gufi":""
+        "swim:flight_ref":"118374921"
     },
     "wof:country":"US",
     "wof:created":1572969726,
@@ -101,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578935646,
+    "wof:lastmodified":1579301014,
     "wof:name":"WN60 (SFO-HOU)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

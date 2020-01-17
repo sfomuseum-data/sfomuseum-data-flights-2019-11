@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120662300",
-        "swim:gufi":""
+        "swim:flight_ref":"120662300"
     },
     "wof:country":"US",
     "wof:created":1575216176,
@@ -101,7 +100,7 @@
         1477930479,
         1159289989
     ],
-    "wof:lastmodified":1578936414,
+    "wof:lastmodified":1579301119,
     "wof:name":"AI173 (DEL-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119348228",
-        "swim:gufi":""
+        "swim:flight_ref":"119348228"
     },
     "wof:country":"US",
     "wof:created":1573920162,
@@ -102,7 +101,7 @@
         1477930433,
         1377564289
     ],
-    "wof:lastmodified":1578938652,
+    "wof:lastmodified":1579301456,
     "wof:name":"UA2065 (SFO-EWR)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

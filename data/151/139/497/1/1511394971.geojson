@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120353745",
-        "swim:gufi":""
+        "swim:flight_ref":"120353745"
     },
     "wof:country":"US",
     "wof:created":1574870589,
@@ -100,7 +99,7 @@
         1159284261,
         1477930335
     ],
-    "wof:lastmodified":1578937788,
+    "wof:lastmodified":1579301316,
     "wof:name":"DL1241 (SLC-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

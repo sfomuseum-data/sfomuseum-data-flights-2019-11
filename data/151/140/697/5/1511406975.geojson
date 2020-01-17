@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120526887",
-        "swim:gufi":""
+        "swim:flight_ref":"120526887"
     },
     "wof:country":"US",
     "wof:created":1575043349,
@@ -101,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578938905,
+    "wof:lastmodified":1579301500,
     "wof:name":"WN5139 (BUR-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

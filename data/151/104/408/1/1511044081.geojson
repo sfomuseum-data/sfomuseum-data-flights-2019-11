@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118347893",
-        "swim:gufi":""
+        "swim:flight_ref":"118347893"
     },
     "wof:country":"US",
     "wof:created":1572969735,
@@ -94,7 +93,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578935580,
+    "wof:lastmodified":1579301005,
     "wof:name":"WN3333 (SFO-LAX)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

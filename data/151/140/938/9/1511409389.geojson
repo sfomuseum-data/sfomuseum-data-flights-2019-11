@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120536304",
-        "swim:gufi":""
+        "swim:flight_ref":"120536304"
     },
     "wof:country":"US",
     "wof:created":1575043367,
@@ -100,7 +99,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578938794,
+    "wof:lastmodified":1579301477,
     "wof:name":"WN4253 (ATL-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

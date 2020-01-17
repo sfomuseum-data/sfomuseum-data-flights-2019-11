@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118315743",
-        "swim:gufi":""
+        "swim:flight_ref":"118315743"
     },
     "wof:country":"US",
     "wof:created":1572969735,
@@ -102,7 +101,7 @@
         1477930385,
         1159289407
     ],
-    "wof:lastmodified":1578935580,
+    "wof:lastmodified":1579301005,
     "wof:name":"UA694 (SFO-BUR)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

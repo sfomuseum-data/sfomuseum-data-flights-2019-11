@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118160030",
-        "swim:gufi":""
+        "swim:flight_ref":"118160030"
     },
     "wof:country":"US",
     "wof:created":1572796916,
@@ -102,7 +101,7 @@
         1477881725,
         1159289871
     ],
-    "wof:lastmodified":1578935916,
+    "wof:lastmodified":1579301053,
     "wof:name":"WN1721 (SFO-MDW)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

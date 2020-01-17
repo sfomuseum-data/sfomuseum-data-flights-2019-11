@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120330204",
-        "swim:gufi":""
+        "swim:flight_ref":"120330204"
     },
     "wof:country":"US",
     "wof:created":1574870612,
@@ -102,7 +101,7 @@
         1477930369,
         1159292085
     ],
-    "wof:lastmodified":1578937876,
+    "wof:lastmodified":1579301329,
     "wof:name":"AS1779 (SFO-SEA)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

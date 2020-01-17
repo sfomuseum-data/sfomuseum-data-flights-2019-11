@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118317002",
-        "swim:gufi":""
+        "swim:flight_ref":"118317002"
     },
     "wof:country":"US",
     "wof:created":1572969733,
@@ -102,7 +101,7 @@
         1477930303,
         1159289993
     ],
-    "wof:lastmodified":1578935600,
+    "wof:lastmodified":1579301008,
     "wof:name":"PR105 (SFO-MNL)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

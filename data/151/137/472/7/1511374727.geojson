@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120034879",
-        "swim:gufi":""
+        "swim:flight_ref":"120034879"
     },
     "wof:country":"US",
     "wof:created":1574611528,
@@ -101,7 +100,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1578938062,
+    "wof:lastmodified":1579301359,
     "wof:name":"UA724 (SFO-TPA)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

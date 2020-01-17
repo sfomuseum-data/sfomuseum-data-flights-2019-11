@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119765672",
-        "swim:gufi":""
+        "swim:flight_ref":"119765672"
     },
     "wof:country":"US",
     "wof:created":1574352180,
@@ -101,7 +100,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578936377,
+    "wof:lastmodified":1579301113,
     "wof:name":"WN2357 (SFO-ONT)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

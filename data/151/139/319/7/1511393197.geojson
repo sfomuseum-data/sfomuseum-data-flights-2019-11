@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120389088",
-        "swim:gufi":""
+        "swim:flight_ref":"120389088"
     },
     "wof:country":"US",
     "wof:created":1574870574,
@@ -101,7 +100,7 @@
         1477930469,
         1159293215
     ],
-    "wof:lastmodified":1578937884,
+    "wof:lastmodified":1579301331,
     "wof:name":"UA2 (SIN-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119156701",
-        "swim:gufi":""
+        "swim:flight_ref":"119156701"
     },
     "wof:country":"US",
     "wof:created":1573747345,
@@ -101,7 +100,7 @@
         1477930477,
         1159289989
     ],
-    "wof:lastmodified":1578936838,
+    "wof:lastmodified":1579301179,
     "wof:name":"AI173 (BLR-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

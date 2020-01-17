@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118690552",
-        "swim:gufi":""
+        "swim:flight_ref":"118690552"
     },
     "wof:country":"US",
     "wof:created":1573315309,
@@ -102,7 +101,7 @@
         1477930343,
         1159292085
     ],
-    "wof:lastmodified":1578937304,
+    "wof:lastmodified":1579301247,
     "wof:name":"AS1328 (SEA-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

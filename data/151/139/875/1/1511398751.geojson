@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120360611",
-        "swim:gufi":""
+        "swim:flight_ref":"120360611"
     },
     "wof:country":"US",
     "wof:created":1574870619,
@@ -101,7 +100,7 @@
         1477930371,
         1159289407
     ],
-    "wof:lastmodified":1578937780,
+    "wof:lastmodified":1579301315,
     "wof:name":"AS1908 (SFO-LAS)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

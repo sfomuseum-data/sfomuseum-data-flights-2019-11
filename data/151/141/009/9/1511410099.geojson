@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120507140",
-        "swim:gufi":""
+        "swim:flight_ref":"120507140"
     },
     "wof:country":"US",
     "wof:created":1575043374,
@@ -102,7 +101,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578938534,
+    "wof:lastmodified":1579301435,
     "wof:name":"WN3913 (SFO-STL)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119996886",
-        "swim:gufi":""
+        "swim:flight_ref":"119996886"
     },
     "wof:country":"US",
     "wof:created":1574524995,
@@ -101,7 +100,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578937101,
+    "wof:lastmodified":1579301219,
     "wof:name":"WN1737 (SFO-PHX)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120061668",
-        "swim:gufi":""
+        "swim:flight_ref":"120061668"
     },
     "wof:country":"US",
     "wof:created":1574611505,
@@ -102,7 +101,7 @@
         1477930433,
         1159289985
     ],
-    "wof:lastmodified":1578938082,
+    "wof:lastmodified":1579301363,
     "wof:name":"UA291 (SFO-IAD)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

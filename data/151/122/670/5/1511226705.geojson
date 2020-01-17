@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119458218",
-        "swim:gufi":""
+        "swim:flight_ref":"119458218"
     },
     "wof:country":"US",
     "wof:created":1574006558,
@@ -101,7 +100,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1578938753,
+    "wof:lastmodified":1579301471,
     "wof:name":"WN4809 (SFO-LAX)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

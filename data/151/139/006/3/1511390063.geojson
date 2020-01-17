@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120219625",
-        "swim:gufi":""
+        "swim:flight_ref":"120219625"
     },
     "wof:country":"US",
     "wof:created":1574784227,
@@ -101,7 +100,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578937801,
+    "wof:lastmodified":1579301318,
     "wof:name":"WN1531 (SFO-JAX)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

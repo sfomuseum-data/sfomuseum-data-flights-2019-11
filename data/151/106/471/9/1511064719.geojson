@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118662764",
-        "swim:gufi":""
+        "swim:flight_ref":"118662764"
     },
     "wof:country":"US",
     "wof:created":1573228913,
@@ -102,7 +101,7 @@
         1477930345,
         1377564285
     ],
-    "wof:lastmodified":1578937596,
+    "wof:lastmodified":1579301290,
     "wof:name":"AS360 (BOS-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

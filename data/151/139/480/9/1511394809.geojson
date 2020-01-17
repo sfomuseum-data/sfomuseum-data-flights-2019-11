@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120283492",
-        "swim:gufi":""
+        "swim:flight_ref":"120283492"
     },
     "wof:country":"US",
     "wof:created":1574870588,
@@ -100,7 +99,7 @@
         1477930305,
         1159289993
     ],
-    "wof:lastmodified":1578937851,
+    "wof:lastmodified":1579301326,
     "wof:name":"MU589 (PVG-SFO)",
     "wof:parent_id":1477930305,
     "wof:placetype":"event",

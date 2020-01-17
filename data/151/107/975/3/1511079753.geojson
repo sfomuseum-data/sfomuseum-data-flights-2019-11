@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118874060",
-        "swim:gufi":""
+        "swim:flight_ref":"118874060"
     },
     "wof:country":"US",
     "wof:created":1573401727,
@@ -97,7 +96,7 @@
         1477930323,
         1159289939
     ],
-    "wof:lastmodified":1578937415,
+    "wof:lastmodified":1579301262,
     "wof:name":"DL2670 (JFK-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

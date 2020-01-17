@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119475583",
-        "swim:gufi":""
+        "swim:flight_ref":"119475583"
     },
     "wof:country":"US",
     "wof:created":1574006539,
@@ -102,7 +101,7 @@
         1477930439,
         1159289985
     ],
-    "wof:lastmodified":1578938687,
+    "wof:lastmodified":1579301461,
     "wof:name":"UA340 (ORD-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

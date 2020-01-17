@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120623178",
-        "swim:gufi":""
+        "swim:flight_ref":"120623178"
     },
     "wof:country":"US",
     "wof:created":1575216174,
@@ -101,7 +100,7 @@
         1477930465,
         1159289985
     ],
-    "wof:lastmodified":1578936481,
+    "wof:lastmodified":1579301128,
     "wof:name":"UA949 (LHR-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118123036",
-        "swim:gufi":""
+        "swim:flight_ref":"118123036"
     },
     "wof:country":"US",
     "wof:created":1572710490,
@@ -100,7 +99,7 @@
         1477930353,
         1159289871
     ],
-    "wof:lastmodified":1578937908,
+    "wof:lastmodified":1579301334,
     "wof:name":"AS327 (BWI-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

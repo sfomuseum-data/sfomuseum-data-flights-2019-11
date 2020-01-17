@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119262528",
-        "swim:gufi":""
+        "swim:flight_ref":"119262528"
     },
     "wof:country":"US",
     "wof:created":1573833765,
@@ -101,7 +100,7 @@
         1477930391,
         1159289407
     ],
-    "wof:lastmodified":1578936770,
+    "wof:lastmodified":1579301168,
     "wof:name":"UA277 (SFO-ORD)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

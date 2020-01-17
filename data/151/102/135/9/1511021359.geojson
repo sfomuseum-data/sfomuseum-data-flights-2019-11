@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118113581",
-        "swim:gufi":""
+        "swim:flight_ref":"118113581"
     },
     "wof:country":"US",
     "wof:created":1572710526,
@@ -101,7 +100,7 @@
         1477930333,
         1159289407
     ],
-    "wof:lastmodified":1578935832,
+    "wof:lastmodified":1579301040,
     "wof:name":"AA1851 (SFO-LAX)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119612755",
-        "swim:gufi":""
+        "swim:flight_ref":"119612755"
     },
     "wof:country":"US",
     "wof:created":1574179353,
@@ -101,7 +100,7 @@
         1477881735,
         1159289871
     ],
-    "wof:lastmodified":1578938432,
+    "wof:lastmodified":1579301417,
     "wof:name":"WN3149 (SFO-PHX)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

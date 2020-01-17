@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118948581",
-        "swim:gufi":""
+        "swim:flight_ref":"118948581"
     },
     "wof:country":"US",
     "wof:created":1573574512,
@@ -101,7 +100,7 @@
         1477930395,
         1159289407
     ],
-    "wof:lastmodified":1578937269,
+    "wof:lastmodified":1579301241,
     "wof:name":"UA2233 (PDX-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

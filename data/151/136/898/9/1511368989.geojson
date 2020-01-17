@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120062598",
-        "swim:gufi":""
+        "swim:flight_ref":"120062598"
     },
     "wof:country":"US",
     "wof:created":1574611477,
@@ -102,7 +101,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578937072,
+    "wof:lastmodified":1579301214,
     "wof:name":"UA1998 (IAH-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

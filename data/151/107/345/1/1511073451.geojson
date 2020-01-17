@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118680460",
-        "swim:gufi":""
+        "swim:flight_ref":"118680460"
     },
     "wof:country":"US",
     "wof:created":1573315333,
@@ -102,7 +101,7 @@
         1477881735,
         1159289869
     ],
-    "wof:lastmodified":1578937405,
+    "wof:lastmodified":1579301261,
     "wof:name":"WN1563 (SFO-GEG)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

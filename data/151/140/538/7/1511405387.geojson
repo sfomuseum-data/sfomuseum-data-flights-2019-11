@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120385572",
-        "swim:gufi":""
+        "swim:flight_ref":"120385572"
     },
     "wof:country":"US",
     "wof:created":1574957028,
@@ -100,7 +99,7 @@
         1477930477,
         1159289989
     ],
-    "wof:lastmodified":1578938877,
+    "wof:lastmodified":1579301495,
     "wof:name":"AI184 (SFO-DEL)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

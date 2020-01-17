@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119635172",
-        "swim:gufi":""
+        "swim:flight_ref":"119635172"
     },
     "wof:country":"US",
     "wof:created":1574179349,
@@ -100,7 +99,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1578938473,
+    "wof:lastmodified":1579301424,
     "wof:name":"UA2054 (PDX-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

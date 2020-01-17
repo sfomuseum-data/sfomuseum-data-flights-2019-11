@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118204317",
-        "swim:gufi":""
+        "swim:flight_ref":"118204317"
     },
     "wof:country":"US",
     "wof:created":1572796931,
@@ -102,7 +101,7 @@
         1477930469,
         1159289993
     ],
-    "wof:lastmodified":1578935916,
+    "wof:lastmodified":1579301053,
     "wof:name":"UA871 (SFO-TPE)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

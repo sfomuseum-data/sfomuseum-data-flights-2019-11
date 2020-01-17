@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120187876",
-        "swim:gufi":""
+        "swim:flight_ref":"120187876"
     },
     "wof:country":"US",
     "wof:created":1574697793,
@@ -102,7 +101,7 @@
         1477930413,
         1159292085
     ],
-    "wof:lastmodified":1578938043,
+    "wof:lastmodified":1579301356,
     "wof:name":"UA2341 (SFO-LAS)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

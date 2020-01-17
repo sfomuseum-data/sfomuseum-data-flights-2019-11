@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120203249",
-        "swim:gufi":""
+        "swim:flight_ref":"120203249"
     },
     "wof:country":"US",
     "wof:created":1574784227,
@@ -102,7 +101,7 @@
         1477930345,
         1377564285
     ],
-    "wof:lastmodified":1578937798,
+    "wof:lastmodified":1579301317,
     "wof:name":"AS350 (SFO-FLL)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

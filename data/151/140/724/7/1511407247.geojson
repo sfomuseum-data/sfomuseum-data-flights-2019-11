@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120498208",
-        "swim:gufi":""
+        "swim:flight_ref":"120498208"
     },
     "wof:country":"US",
     "wof:created":1575043352,
@@ -98,7 +97,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1578938858,
+    "wof:lastmodified":1579301490,
     "wof:name":"WN3892 (LAX-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

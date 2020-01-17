@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118191646",
-        "swim:gufi":""
+        "swim:flight_ref":"118191646"
     },
     "wof:country":"US",
     "wof:created":1572796918,
@@ -98,7 +97,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578935941,
+    "wof:lastmodified":1579301057,
     "wof:name":"WN591 (SFO-LAX)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

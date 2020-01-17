@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119296884",
-        "swim:gufi":""
+        "swim:flight_ref":"119296884"
     },
     "wof:country":"US",
     "wof:created":1573920164,
@@ -102,7 +101,7 @@
         1477930355,
         1159292085
     ],
-    "wof:lastmodified":1578938642,
+    "wof:lastmodified":1579301454,
     "wof:name":"AS1222 (SFO-AUS)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

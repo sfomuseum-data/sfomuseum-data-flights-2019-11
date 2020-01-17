@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119845168",
-        "swim:gufi":""
+        "swim:flight_ref":"119845168"
     },
     "wof:country":"US",
     "wof:created":1574438583,
@@ -98,7 +97,7 @@
         1159284211,
         1477930309
     ],
-    "wof:lastmodified":1578935386,
+    "wof:lastmodified":1579300976,
     "wof:name":"CM383 (SFO-PTY)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

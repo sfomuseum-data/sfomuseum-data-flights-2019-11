@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119505729",
-        "swim:gufi":""
+        "swim:flight_ref":"119505729"
     },
     "wof:country":"US",
     "wof:created":1574092934,
@@ -101,7 +100,7 @@
         1477930461,
         1377564285
     ],
-    "wof:lastmodified":1578938277,
+    "wof:lastmodified":1579301391,
     "wof:name":"UA1159 (CUN-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

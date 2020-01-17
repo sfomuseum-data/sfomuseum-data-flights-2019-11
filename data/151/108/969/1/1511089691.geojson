@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118890828",
-        "swim:gufi":""
+        "swim:flight_ref":"118890828"
     },
     "wof:country":"US",
     "wof:created":1573488155,
@@ -102,7 +101,7 @@
         1477930339,
         1159289871
     ],
-    "wof:lastmodified":1578938201,
+    "wof:lastmodified":1579301380,
     "wof:name":"AS835 (SFO-SAN)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

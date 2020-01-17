@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120212907",
-        "swim:gufi":""
+        "swim:flight_ref":"120212907"
     },
     "wof:country":"US",
     "wof:created":1574784192,
@@ -101,7 +100,7 @@
         1477930461,
         1159289407
     ],
-    "wof:lastmodified":1578937444,
+    "wof:lastmodified":1579301267,
     "wof:name":"UA820 (MEX-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

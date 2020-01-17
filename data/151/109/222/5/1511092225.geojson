@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118951043",
-        "swim:gufi":""
+        "swim:flight_ref":"118951043"
     },
     "wof:country":"US",
     "wof:created":1573574517,
@@ -101,7 +100,7 @@
         1477930371,
         1159289871
     ],
-    "wof:lastmodified":1578937226,
+    "wof:lastmodified":1579301236,
     "wof:name":"AS710 (HNL-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

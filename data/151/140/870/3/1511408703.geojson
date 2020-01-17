@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120474862",
-        "swim:gufi":""
+        "swim:flight_ref":"120474862"
     },
     "wof:country":"US",
     "wof:created":1575043362,
@@ -97,7 +96,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1578938888,
+    "wof:lastmodified":1579301497,
     "wof:name":"UA843 (IAD-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

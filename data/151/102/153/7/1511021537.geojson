@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118118444",
-        "swim:gufi":""
+        "swim:flight_ref":"118118444"
     },
     "wof:country":"US",
     "wof:created":1572710527,
@@ -100,7 +99,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578935923,
+    "wof:lastmodified":1579301054,
     "wof:name":"WN116 (SFO-SAN)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

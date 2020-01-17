@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118848769",
-        "swim:gufi":""
+        "swim:flight_ref":"118848769"
     },
     "wof:country":"US",
     "wof:created":1573401751,
@@ -94,7 +93,7 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1578938221,
+    "wof:lastmodified":1579301382,
     "wof:name":"AS20 (SFO-JFK)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

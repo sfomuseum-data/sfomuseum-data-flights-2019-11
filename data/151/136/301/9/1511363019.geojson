@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120011893",
-        "swim:gufi":""
+        "swim:flight_ref":"120011893"
     },
     "wof:country":"US",
     "wof:created":1574524961,
@@ -100,7 +99,7 @@
         1477930439,
         1377564289
     ],
-    "wof:lastmodified":1578936960,
+    "wof:lastmodified":1579301197,
     "wof:name":"UA2006 (EWR-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

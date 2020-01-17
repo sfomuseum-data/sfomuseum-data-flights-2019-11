@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120037402",
-        "swim:gufi":""
+        "swim:flight_ref":"120037402"
     },
     "wof:country":"US",
     "wof:created":1574611518,
@@ -101,7 +100,7 @@
         1477930467,
         1377564285
     ],
-    "wof:lastmodified":1578938106,
+    "wof:lastmodified":1579301367,
     "wof:name":"UA1947 (SFO-CUN)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

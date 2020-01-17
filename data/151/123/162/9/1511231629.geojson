@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119514844",
-        "swim:gufi":""
+        "swim:flight_ref":"119514844"
     },
     "wof:country":"US",
     "wof:created":1574092938,
@@ -101,7 +100,7 @@
         1477930291,
         1159289985
     ],
-    "wof:lastmodified":1578938342,
+    "wof:lastmodified":1579301400,
     "wof:name":"BA287 (LHR-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

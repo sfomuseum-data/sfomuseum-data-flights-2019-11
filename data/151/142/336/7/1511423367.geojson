@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120621401",
-        "swim:gufi":""
+        "swim:flight_ref":"120621401"
     },
     "wof:country":"US",
     "wof:created":1575216202,
@@ -101,7 +100,7 @@
         1477930349,
         1377564285
     ],
-    "wof:lastmodified":1578936402,
+    "wof:lastmodified":1579301116,
     "wof:name":"AS254 (SFO-JFK)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118181210",
-        "swim:gufi":""
+        "swim:flight_ref":"118181210"
     },
     "wof:country":"US",
     "wof:created":1572796931,
@@ -101,7 +100,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1578935847,
+    "wof:lastmodified":1579301043,
     "wof:name":"WN4794 (SFO-SAN)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

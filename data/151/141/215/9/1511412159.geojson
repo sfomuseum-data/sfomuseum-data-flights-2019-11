@@ -51,8 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120565985",
-        "swim:gufi":""
+        "swim:flight_ref":"120565985"
     },
     "wof:country":"US",
     "wof:created":1575129762,
@@ -92,7 +91,7 @@
         1159283495,
         1477930461
     ],
-    "wof:lastmodified":1578938590,
+    "wof:lastmodified":1579301445,
     "wof:name":"EI147 (DUB-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

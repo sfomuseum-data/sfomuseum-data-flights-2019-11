@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119640202",
-        "swim:gufi":""
+        "swim:flight_ref":"119640202"
     },
     "wof:country":"US",
     "wof:created":1574179332,
@@ -100,7 +99,7 @@
         1477930319,
         1159292085
     ],
-    "wof:lastmodified":1578938304,
+    "wof:lastmodified":1579301395,
     "wof:name":"DL2757 (LAX-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119915490",
-        "swim:gufi":""
+        "swim:flight_ref":"119915490"
     },
     "wof:country":"US",
     "wof:created":1574438542,
@@ -100,7 +99,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1578935382,
+    "wof:lastmodified":1579300975,
     "wof:name":"UA2230 (SNA-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

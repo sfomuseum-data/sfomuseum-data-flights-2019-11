@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120064333",
-        "swim:gufi":""
+        "swim:flight_ref":"120064333"
     },
     "wof:country":"US",
     "wof:created":1574611485,
@@ -101,7 +100,7 @@
         1477930355,
         1159289871
     ],
-    "wof:lastmodified":1578937088,
+    "wof:lastmodified":1579301217,
     "wof:name":"AS799 (SEA-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

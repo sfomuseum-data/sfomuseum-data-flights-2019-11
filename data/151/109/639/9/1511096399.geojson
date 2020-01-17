@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118980449",
-        "swim:gufi":""
+        "swim:flight_ref":"118980449"
     },
     "wof:country":"US",
     "wof:created":1573574549,
@@ -100,7 +99,7 @@
         1477930367,
         1159289871
     ],
-    "wof:lastmodified":1578937238,
+    "wof:lastmodified":1579301238,
     "wof:name":"AA2614 (SFO-ORD)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

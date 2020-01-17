@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118913958",
-        "swim:gufi":""
+        "swim:flight_ref":"118913958"
     },
     "wof:country":"US",
     "wof:created":1573488141,
@@ -102,7 +101,7 @@
         1477930439,
         1159289993
     ],
-    "wof:lastmodified":1578938224,
+    "wof:lastmodified":1579301382,
     "wof:name":"UA1865 (SFO-BOS)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

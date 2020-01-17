@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120056493",
-        "swim:gufi":""
+        "swim:flight_ref":"120056493"
     },
     "wof:country":"US",
     "wof:created":1574524950,
@@ -100,7 +99,7 @@
         1477930301,
         1159293215
     ],
-    "wof:lastmodified":1578937090,
+    "wof:lastmodified":1579301217,
     "wof:name":"DI7173 (LGW-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

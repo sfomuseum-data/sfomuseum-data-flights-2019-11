@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118240330",
-        "swim:gufi":""
+        "swim:flight_ref":"118240330"
     },
     "wof:country":"US",
     "wof:created":1572883305,
@@ -102,7 +101,7 @@
         1477930351,
         1159289871
     ],
-    "wof:lastmodified":1578935787,
+    "wof:lastmodified":1579301034,
     "wof:name":"AS709 (RDU-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

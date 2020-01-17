@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119180927",
-        "swim:gufi":""
+        "swim:flight_ref":"119180927"
     },
     "wof:country":"US",
     "wof:created":1573747367,
@@ -101,7 +100,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578936633,
+    "wof:lastmodified":1579301149,
     "wof:name":"UA821 (SFO-MEX)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

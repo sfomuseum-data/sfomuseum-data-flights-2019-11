@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120205119",
-        "swim:gufi":""
+        "swim:flight_ref":"120205119"
     },
     "wof:country":"US",
     "wof:created":1574784166,
@@ -100,7 +99,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578937564,
+    "wof:lastmodified":1579301285,
     "wof:name":"WN5055 (SAN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120036500",
-        "swim:gufi":""
+        "swim:flight_ref":"120036500"
     },
     "wof:country":"US",
     "wof:created":1574611483,
@@ -101,7 +100,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1578937089,
+    "wof:lastmodified":1579301217,
     "wof:name":"UA1557 (OGG-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120591301",
-        "swim:gufi":""
+        "swim:flight_ref":"120591301"
     },
     "wof:country":"US",
     "wof:created":1575129775,
@@ -101,7 +100,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578938578,
+    "wof:lastmodified":1579301444,
     "wof:name":"WN2757 (SAN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

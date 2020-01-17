@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118352738",
-        "swim:gufi":""
+        "swim:flight_ref":"118352738"
     },
     "wof:country":"US",
     "wof:created":1572969711,
@@ -101,7 +100,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1578935613,
+    "wof:lastmodified":1579301010,
     "wof:name":"UA708 (LAX-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

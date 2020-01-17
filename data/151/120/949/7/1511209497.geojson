@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119266159",
-        "swim:gufi":""
+        "swim:flight_ref":"119266159"
     },
     "wof:country":"US",
     "wof:created":1573833755,
@@ -101,7 +100,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578936572,
+    "wof:lastmodified":1579301142,
     "wof:name":"WN1652 (SFO-BUR)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

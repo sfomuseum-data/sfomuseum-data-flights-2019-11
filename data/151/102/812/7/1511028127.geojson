@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118140023",
-        "swim:gufi":""
+        "swim:flight_ref":"118140023"
     },
     "wof:country":"US",
     "wof:created":1572796921,
@@ -102,7 +101,7 @@
         1477930341,
         1159289871
     ],
-    "wof:lastmodified":1578935958,
+    "wof:lastmodified":1579301059,
     "wof:name":"AS734 (SFO-RDU)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

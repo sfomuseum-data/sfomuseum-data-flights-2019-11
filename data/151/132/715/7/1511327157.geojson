@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119723552",
-        "swim:gufi":""
+        "swim:flight_ref":"119723552"
     },
     "wof:country":"US",
     "wof:created":1574265733,
@@ -101,7 +100,7 @@
         1477930291,
         1377564285
     ],
-    "wof:lastmodified":1578935521,
+    "wof:lastmodified":1579300997,
     "wof:name":"AS211 (CUN-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

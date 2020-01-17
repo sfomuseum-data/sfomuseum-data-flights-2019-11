@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118602247",
-        "swim:gufi":""
+        "swim:flight_ref":"118602247"
     },
     "wof:country":"US",
     "wof:created":1573228898,
@@ -101,7 +100,7 @@
         1477930463,
         1159289993
     ],
-    "wof:lastmodified":1578937626,
+    "wof:lastmodified":1579301294,
     "wof:name":"UA59 (FRA-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

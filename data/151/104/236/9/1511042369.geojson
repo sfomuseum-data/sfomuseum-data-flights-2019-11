@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118331509",
-        "swim:gufi":""
+        "swim:flight_ref":"118331509"
     },
     "wof:country":"US",
     "wof:created":1572969721,
@@ -102,7 +101,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578935642,
+    "wof:lastmodified":1579301013,
     "wof:name":"WN1343 (SFO-DCA)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

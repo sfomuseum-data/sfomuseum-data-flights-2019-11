@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120079971",
-        "swim:gufi":""
+        "swim:flight_ref":"120079971"
     },
     "wof:country":"US",
     "wof:created":1574611526,
@@ -100,7 +99,7 @@
         1477930441,
         1159289945
     ],
-    "wof:lastmodified":1578938007,
+    "wof:lastmodified":1579301349,
     "wof:name":"UA624 (SFO-DCA)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

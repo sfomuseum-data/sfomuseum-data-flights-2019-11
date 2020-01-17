@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120590556",
-        "swim:gufi":""
+        "swim:flight_ref":"120590556"
     },
     "wof:country":"US",
     "wof:created":1575129789,
@@ -102,7 +101,7 @@
         1477881735,
         1159289871
     ],
-    "wof:lastmodified":1578938574,
+    "wof:lastmodified":1579301443,
     "wof:name":"WN1869 (SFO-FLL)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

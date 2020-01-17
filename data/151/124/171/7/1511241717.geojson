@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119577545",
-        "swim:gufi":""
+        "swim:flight_ref":"119577545"
     },
     "wof:country":"US",
     "wof:created":1574179359,
@@ -102,7 +101,7 @@
         1477930433,
         1159289985
     ],
-    "wof:lastmodified":1578938487,
+    "wof:lastmodified":1579301427,
     "wof:name":"UA1122 (SFO-IAH)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

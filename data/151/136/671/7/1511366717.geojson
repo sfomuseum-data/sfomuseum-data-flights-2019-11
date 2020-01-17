@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119927588",
-        "swim:gufi":""
+        "swim:flight_ref":"119927588"
     },
     "wof:country":"US",
     "wof:created":1574524992,
@@ -101,7 +100,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578937051,
+    "wof:lastmodified":1579301211,
     "wof:name":"WN1295 (SFO-SAN)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

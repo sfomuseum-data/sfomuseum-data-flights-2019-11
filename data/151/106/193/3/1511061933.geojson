@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118517575",
-        "swim:gufi":""
+        "swim:flight_ref":"118517575"
     },
     "wof:country":"US",
     "wof:created":1573142558,
@@ -101,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578937590,
+    "wof:lastmodified":1579301289,
     "wof:name":"WN1531 (SFO-RDU)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119564242",
-        "swim:gufi":""
+        "swim:flight_ref":"119564242"
     },
     "wof:country":"US",
     "wof:created":1574179377,
@@ -102,7 +101,7 @@
         1477930405,
         1159289871
     ],
-    "wof:lastmodified":1578938417,
+    "wof:lastmodified":1579301414,
     "wof:name":"UA2358 (SFO-AUS)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

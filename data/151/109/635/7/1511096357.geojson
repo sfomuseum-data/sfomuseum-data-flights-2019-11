@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118942568",
-        "swim:gufi":""
+        "swim:flight_ref":"118942568"
     },
     "wof:country":"US",
     "wof:created":1573574549,
@@ -102,7 +101,7 @@
         1477930357,
         1159292085
     ],
-    "wof:lastmodified":1578937160,
+    "wof:lastmodified":1579301227,
     "wof:name":"AS1934 (SFO-LAS)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

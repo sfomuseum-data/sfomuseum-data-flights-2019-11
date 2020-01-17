@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118440810",
-        "swim:gufi":""
+        "swim:flight_ref":"118440810"
     },
     "wof:country":"US",
     "wof:created":1573056107,
@@ -101,7 +100,7 @@
         1477930461,
         1159289939
     ],
-    "wof:lastmodified":1578935552,
+    "wof:lastmodified":1579301002,
     "wof:name":"FI863 (KEF-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

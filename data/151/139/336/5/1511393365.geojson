@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120304043",
-        "swim:gufi":""
+        "swim:flight_ref":"120304043"
     },
     "wof:country":"US",
     "wof:created":1574870575,
@@ -101,7 +100,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1578937749,
+    "wof:lastmodified":1579301311,
     "wof:name":"WN1274 (LAX-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

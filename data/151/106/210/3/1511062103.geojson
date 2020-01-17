@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118551175",
-        "swim:gufi":""
+        "swim:flight_ref":"118551175"
     },
     "wof:country":"US",
     "wof:created":1573142559,
@@ -102,7 +101,7 @@
         1477930479,
         1159293215
     ],
-    "wof:lastmodified":1578937607,
+    "wof:lastmodified":1579301292,
     "wof:name":"AC756 (SFO-YYZ)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118067306",
-        "swim:gufi":""
+        "swim:flight_ref":"118067306"
     },
     "wof:country":"US",
     "wof:created":1572710509,
@@ -102,7 +101,7 @@
         1477930371,
         1377564285
     ],
-    "wof:lastmodified":1578937897,
+    "wof:lastmodified":1579301333,
     "wof:name":"AS203 (ORD-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

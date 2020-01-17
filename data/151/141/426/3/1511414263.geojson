@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120592741",
-        "swim:gufi":""
+        "swim:flight_ref":"120592741"
     },
     "wof:country":"US",
     "wof:created":1575129776,
@@ -102,7 +101,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1578938585,
+    "wof:lastmodified":1579301445,
     "wof:name":"WN5531 (LAX-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

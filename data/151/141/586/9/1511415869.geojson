@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120583799",
-        "swim:gufi":""
+        "swim:flight_ref":"120583799"
     },
     "wof:country":"US",
     "wof:created":1575129789,
@@ -101,7 +100,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578938552,
+    "wof:lastmodified":1579301439,
     "wof:name":"WN6443 (SFO-AMA)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

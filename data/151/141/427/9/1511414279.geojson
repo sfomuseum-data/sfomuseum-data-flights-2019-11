@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120575810",
-        "swim:gufi":""
+        "swim:flight_ref":"120575810"
     },
     "wof:country":"US",
     "wof:created":1575129776,
@@ -101,7 +100,7 @@
         1477930463,
         1159289993
     ],
-    "wof:lastmodified":1578938598,
+    "wof:lastmodified":1579301447,
     "wof:name":"SQ2 (SIN-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

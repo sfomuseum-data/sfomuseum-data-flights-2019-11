@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118923051",
-        "swim:gufi":""
+        "swim:flight_ref":"118923051"
     },
     "wof:country":"US",
     "wof:created":1573488122,
@@ -100,7 +99,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1578938160,
+    "wof:lastmodified":1579301374,
     "wof:name":"UA351 (BOS-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

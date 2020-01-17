@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120103996",
-        "swim:gufi":""
+        "swim:flight_ref":"120103996"
     },
     "wof:country":"US",
     "wof:created":1574611517,
@@ -102,7 +101,7 @@
         1477930469,
         1159289985
     ],
-    "wof:lastmodified":1578938047,
+    "wof:lastmodified":1579301356,
     "wof:name":"UA901 (SFO-LHR)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

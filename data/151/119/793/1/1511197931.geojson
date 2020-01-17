@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119132877",
-        "swim:gufi":""
+        "swim:flight_ref":"119132877"
     },
     "wof:country":"US",
     "wof:created":1573747334,
@@ -101,7 +100,7 @@
         1477930283,
         1159293215
     ],
-    "wof:lastmodified":1578936821,
+    "wof:lastmodified":1579301176,
     "wof:name":"QF49 (MEL-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

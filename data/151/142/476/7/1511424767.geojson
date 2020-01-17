@@ -51,8 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120660819",
-        "swim:gufi":""
+        "swim:flight_ref":"120660819"
     },
     "wof:country":"US",
     "wof:created":1575216215,
@@ -92,7 +91,7 @@
         1159285413,
         1477930459
     ],
-    "wof:lastmodified":1578936416,
+    "wof:lastmodified":1579301119,
     "wof:name":"UA309 (SFO-LAX)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

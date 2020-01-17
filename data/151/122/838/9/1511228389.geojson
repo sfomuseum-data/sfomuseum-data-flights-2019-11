@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119398905",
-        "swim:gufi":""
+        "swim:flight_ref":"119398905"
     },
     "wof:country":"US",
     "wof:created":1574006571,
@@ -97,7 +96,7 @@
         1159285413,
         1477930461
     ],
-    "wof:lastmodified":1578938757,
+    "wof:lastmodified":1579301472,
     "wof:name":"UA1800 (SFO-ORD)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

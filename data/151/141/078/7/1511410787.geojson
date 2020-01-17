@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120535403",
-        "swim:gufi":""
+        "swim:flight_ref":"120535403"
     },
     "wof:country":"US",
     "wof:created":1575043379,
@@ -100,7 +99,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578938526,
+    "wof:lastmodified":1579301434,
     "wof:name":"WN3366 (SFO-PHX)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

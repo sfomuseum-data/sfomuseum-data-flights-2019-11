@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118268713",
-        "swim:gufi":""
+        "swim:flight_ref":"118268713"
     },
     "wof:country":"US",
     "wof:created":1572883343,
@@ -102,7 +101,7 @@
         1477930353,
         1159289871
     ],
-    "wof:lastmodified":1578935813,
+    "wof:lastmodified":1579301037,
     "wof:name":"AS236 (SFO-BWI)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

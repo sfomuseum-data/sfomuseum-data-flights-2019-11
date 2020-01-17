@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120347296",
-        "swim:gufi":""
+        "swim:flight_ref":"120347296"
     },
     "wof:country":"US",
     "wof:created":1574870620,
@@ -100,7 +99,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1578937781,
+    "wof:lastmodified":1579301315,
     "wof:name":"UA2186 (SFO-SAN)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

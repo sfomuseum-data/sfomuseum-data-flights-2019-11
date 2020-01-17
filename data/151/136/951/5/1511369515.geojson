@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120051528",
-        "swim:gufi":""
+        "swim:flight_ref":"120051528"
     },
     "wof:country":"US",
     "wof:created":1574611482,
@@ -102,7 +101,7 @@
         1477930353,
         1377564285
     ],
-    "wof:lastmodified":1578937039,
+    "wof:lastmodified":1579301209,
     "wof:name":"AS221 (ORD-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

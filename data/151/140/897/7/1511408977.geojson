@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120475180",
-        "swim:gufi":""
+        "swim:flight_ref":"120475180"
     },
     "wof:country":"US",
     "wof:created":1575043364,
@@ -102,7 +101,7 @@
         1477930339,
         1159292085
     ],
-    "wof:lastmodified":1578938919,
+    "wof:lastmodified":1579301502,
     "wof:name":"AS1266 (PDX-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

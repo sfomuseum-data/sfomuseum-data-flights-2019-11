@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119708359",
-        "swim:gufi":""
+        "swim:flight_ref":"119708359"
     },
     "wof:country":"US",
     "wof:created":1574265769,
@@ -102,7 +101,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578936187,
+    "wof:lastmodified":1579301089,
     "wof:name":"WN2091 (SFO-LAS)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

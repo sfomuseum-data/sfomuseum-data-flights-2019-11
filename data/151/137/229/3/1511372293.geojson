@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120037254",
-        "swim:gufi":""
+        "swim:flight_ref":"120037254"
     },
     "wof:country":"US",
     "wof:created":1574611504,
@@ -102,7 +101,7 @@
         1477930445,
         1159289945
     ],
-    "wof:lastmodified":1578937973,
+    "wof:lastmodified":1579301345,
     "wof:name":"UA327 (SFO-ORD)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

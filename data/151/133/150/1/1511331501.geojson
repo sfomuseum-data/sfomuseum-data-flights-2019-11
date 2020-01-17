@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119645715",
-        "swim:gufi":""
+        "swim:flight_ref":"119645715"
     },
     "wof:country":"US",
     "wof:created":1574265774,
@@ -101,7 +100,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578936189,
+    "wof:lastmodified":1579301090,
     "wof:name":"UA1291 (SFO-PSP)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

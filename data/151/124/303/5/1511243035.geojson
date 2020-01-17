@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119614530",
-        "swim:gufi":""
+        "swim:flight_ref":"119614530"
     },
     "wof:country":"US",
     "wof:created":1574179368,
@@ -100,7 +99,7 @@
         1159284261,
         1477930335
     ],
-    "wof:lastmodified":1578938449,
+    "wof:lastmodified":1579301419,
     "wof:name":"DL1390 (SFO-SLC)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

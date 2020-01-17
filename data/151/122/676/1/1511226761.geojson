@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119461050",
-        "swim:gufi":""
+        "swim:flight_ref":"119461050"
     },
     "wof:country":"US",
     "wof:created":1574006559,
@@ -94,7 +93,7 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1578938741,
+    "wof:lastmodified":1579301469,
     "wof:name":"AS353 (SFO-SEA)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

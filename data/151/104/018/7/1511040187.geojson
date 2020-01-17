@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118394593",
-        "swim:gufi":""
+        "swim:flight_ref":"118394593"
     },
     "wof:country":"US",
     "wof:created":1572969700,
@@ -102,7 +101,7 @@
         1477930351,
         1159289871
     ],
-    "wof:lastmodified":1578935629,
+    "wof:lastmodified":1579301012,
     "wof:name":"AS9232 (BWI-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

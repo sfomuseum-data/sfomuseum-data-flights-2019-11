@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120135582",
-        "swim:gufi":""
+        "swim:flight_ref":"120135582"
     },
     "wof:country":"US",
     "wof:created":1574697774,
@@ -94,7 +93,7 @@
         1159285413,
         1477930459
     ],
-    "wof:lastmodified":1578938082,
+    "wof:lastmodified":1579301363,
     "wof:name":"UA424 (IAD-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

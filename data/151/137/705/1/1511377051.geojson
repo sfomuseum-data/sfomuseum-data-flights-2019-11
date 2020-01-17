@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120110033",
-        "swim:gufi":""
+        "swim:flight_ref":"120110033"
     },
     "wof:country":"US",
     "wof:created":1574697777,
@@ -101,7 +100,7 @@
         1477930289,
         1377564297
     ],
-    "wof:lastmodified":1578938034,
+    "wof:lastmodified":1579301355,
     "wof:name":"HA42 (OGG-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

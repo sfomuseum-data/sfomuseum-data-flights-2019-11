@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120036002",
-        "swim:gufi":""
+        "swim:flight_ref":"120036002"
     },
     "wof:country":"US",
     "wof:created":1574611473,
@@ -94,7 +93,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1578937056,
+    "wof:lastmodified":1579301212,
     "wof:name":"AS1958 (PDX-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

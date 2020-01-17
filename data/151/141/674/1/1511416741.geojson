@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120600143",
-        "swim:gufi":""
+        "swim:flight_ref":"120600143"
     },
     "wof:country":"US",
     "wof:created":1575129794,
@@ -100,7 +99,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578938520,
+    "wof:lastmodified":1579301433,
     "wof:name":"WN2758 (SFO-SAN)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119285311",
-        "swim:gufi":""
+        "swim:flight_ref":"119285311"
     },
     "wof:country":"US",
     "wof:created":1573833765,
@@ -101,7 +100,7 @@
         1477930345,
         1159289407
     ],
-    "wof:lastmodified":1578936675,
+    "wof:lastmodified":1579301156,
     "wof:name":"AS1948 (SFO-SAN)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

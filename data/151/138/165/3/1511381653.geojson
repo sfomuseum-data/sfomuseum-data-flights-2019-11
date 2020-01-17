@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120151005",
-        "swim:gufi":""
+        "swim:flight_ref":"120151005"
     },
     "wof:country":"US",
     "wof:created":1574697816,
@@ -97,7 +96,7 @@
         1159285413,
         1477930453
     ],
-    "wof:lastmodified":1578937499,
+    "wof:lastmodified":1579301275,
     "wof:name":"UA784 (SFO-YVR)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

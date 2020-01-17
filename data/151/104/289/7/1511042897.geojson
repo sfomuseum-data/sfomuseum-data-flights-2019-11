@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118310558",
-        "swim:gufi":""
+        "swim:flight_ref":"118310558"
     },
     "wof:country":"US",
     "wof:created":1572969725,
@@ -101,7 +100,7 @@
         1477930351,
         1159292085
     ],
-    "wof:lastmodified":1578935564,
+    "wof:lastmodified":1579301003,
     "wof:name":"AS1809 (SFO-PDX)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

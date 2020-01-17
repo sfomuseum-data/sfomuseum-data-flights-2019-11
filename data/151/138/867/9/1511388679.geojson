@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120223466",
-        "swim:gufi":""
+        "swim:flight_ref":"120223466"
     },
     "wof:country":"US",
     "wof:created":1574784215,
@@ -97,7 +96,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578937468,
+    "wof:lastmodified":1579301271,
     "wof:name":"AS920 (SFO-LAX)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

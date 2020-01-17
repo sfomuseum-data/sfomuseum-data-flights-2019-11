@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119928690",
-        "swim:gufi":""
+        "swim:flight_ref":"119928690"
     },
     "wof:country":"US",
     "wof:created":1574524947,
@@ -101,7 +100,7 @@
         1477930345,
         1159292085
     ],
-    "wof:lastmodified":1578937034,
+    "wof:lastmodified":1579301209,
     "wof:name":"AS1943 (LAX-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

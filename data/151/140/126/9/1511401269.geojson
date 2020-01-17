@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120453034",
-        "swim:gufi":""
+        "swim:flight_ref":"120453034"
     },
     "wof:country":"US",
     "wof:created":1574956997,
@@ -100,7 +99,7 @@
         1477930407,
         1159289407
     ],
-    "wof:lastmodified":1578938862,
+    "wof:lastmodified":1579301491,
     "wof:name":"UA420 (LAX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120502500",
-        "swim:gufi":""
+        "swim:flight_ref":"120502500"
     },
     "wof:country":"US",
     "wof:created":1575043374,
@@ -94,7 +93,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1578938591,
+    "wof:lastmodified":1579301446,
     "wof:name":"WN936 (SFO-LAX)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

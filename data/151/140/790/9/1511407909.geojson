@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120529106",
-        "swim:gufi":""
+        "swim:flight_ref":"120529106"
     },
     "wof:country":"US",
     "wof:created":1575043357,
@@ -100,7 +99,7 @@
         1477881737,
         1159289871
     ],
-    "wof:lastmodified":1578938793,
+    "wof:lastmodified":1579301477,
     "wof:name":"WN1397 (DAL-SFO)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

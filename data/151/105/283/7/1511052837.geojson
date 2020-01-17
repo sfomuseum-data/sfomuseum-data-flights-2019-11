@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118403546",
-        "swim:gufi":""
+        "swim:flight_ref":"118403546"
     },
     "wof:country":"US",
     "wof:created":1573056140,
@@ -102,7 +101,7 @@
         1477930469,
         1159289985
     ],
-    "wof:lastmodified":1578936124,
+    "wof:lastmodified":1579301080,
     "wof:name":"UA954 (SFO-TLV)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

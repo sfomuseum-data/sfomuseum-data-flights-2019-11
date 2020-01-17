@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120095526",
-        "swim:gufi":""
+        "swim:flight_ref":"120095526"
     },
     "wof:country":"US",
     "wof:created":1574611513,
@@ -102,7 +101,7 @@
         1477930385,
         1159292085
     ],
-    "wof:lastmodified":1578938023,
+    "wof:lastmodified":1579301353,
     "wof:name":"UA1615 (SFO-IAH)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

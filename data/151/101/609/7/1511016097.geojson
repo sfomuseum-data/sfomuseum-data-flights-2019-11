@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118077743",
-        "swim:gufi":""
+        "swim:flight_ref":"118077743"
     },
     "wof:country":"US",
     "wof:created":1572710484,
@@ -102,7 +101,7 @@
         1477930353,
         1159289871
     ],
-    "wof:lastmodified":1578937940,
+    "wof:lastmodified":1579301340,
     "wof:name":"AS405 (SEA-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

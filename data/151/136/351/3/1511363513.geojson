@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120009932",
-        "swim:gufi":""
+        "swim:flight_ref":"120009932"
     },
     "wof:country":"US",
     "wof:created":1574524965,
@@ -100,7 +99,7 @@
         1477930459,
         1159289945
     ],
-    "wof:lastmodified":1578937037,
+    "wof:lastmodified":1579301209,
     "wof:name":"UA1554 (DCA-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

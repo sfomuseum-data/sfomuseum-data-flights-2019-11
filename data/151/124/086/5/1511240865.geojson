@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119567187",
-        "swim:gufi":""
+        "swim:flight_ref":"119567187"
     },
     "wof:country":"US",
     "wof:created":1574179352,
@@ -102,7 +101,7 @@
         1477930461,
         1159289407
     ],
-    "wof:lastmodified":1578938464,
+    "wof:lastmodified":1579301422,
     "wof:name":"UA2161 (SFO-SEA)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

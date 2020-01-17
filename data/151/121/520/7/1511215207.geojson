@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119372778",
-        "swim:gufi":""
+        "swim:flight_ref":"119372778"
     },
     "wof:country":"US",
     "wof:created":1573920122,
@@ -102,7 +101,7 @@
         1477881721,
         1159289411
     ],
-    "wof:lastmodified":1578936711,
+    "wof:lastmodified":1579301161,
     "wof:name":"B6633 (BOS-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

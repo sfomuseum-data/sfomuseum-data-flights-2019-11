@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120656225",
-        "swim:gufi":""
+        "swim:flight_ref":"120656225"
     },
     "wof:country":"US",
     "wof:created":1575216208,
@@ -100,7 +99,7 @@
         1477930339,
         1159292085
     ],
-    "wof:lastmodified":1578936429,
+    "wof:lastmodified":1579301120,
     "wof:name":"AS1080 (SFO-IAD)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

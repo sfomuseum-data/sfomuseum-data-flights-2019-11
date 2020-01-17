@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119777826",
-        "swim:gufi":""
+        "swim:flight_ref":"119777826"
     },
     "wof:country":"US",
     "wof:created":1574352145,
@@ -101,7 +100,7 @@
         1477930479,
         1159289993
     ],
-    "wof:lastmodified":1578936361,
+    "wof:lastmodified":1579301112,
     "wof:name":"SQ2 (HKG-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

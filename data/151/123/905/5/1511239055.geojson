@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119566109",
-        "swim:gufi":""
+        "swim:flight_ref":"119566109"
     },
     "wof:country":"US",
     "wof:created":1574179337,
@@ -102,7 +101,7 @@
         1477930439,
         1159289939
     ],
-    "wof:lastmodified":1578938352,
+    "wof:lastmodified":1579301402,
     "wof:name":"UA1163 (BOS-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119413926",
-        "swim:gufi":""
+        "swim:flight_ref":"119413926"
     },
     "wof:country":"US",
     "wof:created":1573920163,
@@ -102,7 +101,7 @@
         1477930391,
         1159289945
     ],
-    "wof:lastmodified":1578938783,
+    "wof:lastmodified":1579301475,
     "wof:name":"UA2742 (SFO-LAX)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

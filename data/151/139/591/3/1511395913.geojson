@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120288050",
-        "swim:gufi":""
+        "swim:flight_ref":"120288050"
     },
     "wof:country":"US",
     "wof:created":1574870597,
@@ -102,7 +101,7 @@
         1477930379,
         1159289407
     ],
-    "wof:lastmodified":1578937833,
+    "wof:lastmodified":1579301323,
     "wof:name":"UA680 (SFO-ORD)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

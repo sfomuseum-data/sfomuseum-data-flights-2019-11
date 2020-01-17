@@ -51,8 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119282417",
-        "swim:gufi":""
+        "swim:flight_ref":"119282417"
     },
     "wof:country":"US",
     "wof:created":1573833722,
@@ -92,7 +91,7 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1578936643,
+    "wof:lastmodified":1579301151,
     "wof:name":"AS375 (EWR-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

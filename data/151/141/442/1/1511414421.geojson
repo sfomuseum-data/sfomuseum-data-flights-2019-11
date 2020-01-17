@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120564559",
-        "swim:gufi":""
+        "swim:flight_ref":"120564559"
     },
     "wof:country":"US",
     "wof:created":1575129778,
@@ -102,7 +101,7 @@
         1477930289,
         1159292085
     ],
-    "wof:lastmodified":1578938601,
+    "wof:lastmodified":1579301447,
     "wof:name":"F91911 (AUS-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

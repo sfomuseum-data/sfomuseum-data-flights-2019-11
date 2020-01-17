@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118914907",
-        "swim:gufi":""
+        "swim:flight_ref":"118914907"
     },
     "wof:country":"US",
     "wof:created":1573488143,
@@ -101,7 +100,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578938144,
+    "wof:lastmodified":1579301373,
     "wof:name":"UA368 (SFO-PSP)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119635323",
-        "swim:gufi":""
+        "swim:flight_ref":"119635323"
     },
     "wof:country":"US",
     "wof:created":1574179367,
@@ -102,7 +101,7 @@
         1477930321,
         1159289939
     ],
-    "wof:lastmodified":1578938424,
+    "wof:lastmodified":1579301415,
     "wof:name":"DL490 (SFO-JFK)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

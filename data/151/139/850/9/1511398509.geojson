@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120337430",
-        "swim:gufi":""
+        "swim:flight_ref":"120337430"
     },
     "wof:country":"US",
     "wof:created":1574870617,
@@ -100,7 +99,7 @@
         1159284261,
         1477930335
     ],
-    "wof:lastmodified":1578937787,
+    "wof:lastmodified":1579301316,
     "wof:name":"DL677 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

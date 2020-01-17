@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119566882",
-        "swim:gufi":""
+        "swim:flight_ref":"119566882"
     },
     "wof:country":"US",
     "wof:created":1574179368,
@@ -102,7 +101,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1578938407,
+    "wof:lastmodified":1579301412,
     "wof:name":"UA394 (SFO-LAS)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

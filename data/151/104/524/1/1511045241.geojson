@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"118365447",
-        "swim:gufi":""
+        "swim:flight_ref":"118365447"
     },
     "wof:country":"US",
     "wof:created":1572969743,
@@ -102,7 +101,7 @@
         1477930339,
         1159289407
     ],
-    "wof:lastmodified":1578935671,
+    "wof:lastmodified":1579301018,
     "wof:name":"AS1952 (SFO-SAN)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

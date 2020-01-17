@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"119569506",
-        "swim:gufi":""
+        "swim:flight_ref":"119569506"
     },
     "wof:country":"US",
     "wof:created":1574179341,
@@ -102,7 +101,7 @@
         1477930387,
         1159289871
     ],
-    "wof:lastmodified":1578938275,
+    "wof:lastmodified":1579301390,
     "wof:name":"UA1844 (IAH-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",
